@@ -1,0 +1,152 @@
+<% include common/start %>
+
+<% include common/headerfull %>
+
+<!-- About Section Start -->
+<section class="about-area section-padding light-bg" id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="section-title text-center mb-60">
+                    <h2 class="mb-20">Sobre mí</h2>
+                    <div class="horizontal-line">
+                        <div class="top"></div>
+                        <div class="bottom"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 col-sm-6">
+                <div class="left mr-40">
+                    <h3 class="font-22 capitalize">Alocada y ordenada</h3>
+                    <p class="font-16 line-height-28">
+                    Licenciada en Publicidad y RRPP, siempre he trabajado en Creatividad, a veces como actividad principal el diseño, a veces el copy. Mis mejores fuentes de inspiración las encontré en Buenos Aires y Madrid. De allí me llevé la poca vergüenza y el trabajo duro.
+                    <br/>
+                    Todo ello aderezado con experiencia comercial y con proyectos personales que me han dado [y siguen dando] los mejores y más bonitos frutos.
+                    </p>
+                    <div class="about-button mt-30">
+                        <a class="btn" href="/assets/MarguiRuhe.pdf">Descarga mi CV</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-push-1 col-md-5">
+                <div class="right skill-progress">
+                    <!-- skill bar 1 -->
+                    <div class="skill-bar" data-percentage="95%">
+                        <h4 class="progress-title-holder">
+                            <span class="progress-title">Redacción</span>
+                            <span class="progress-wrapper">
+                                <span class="progress-mark">
+                                    <span class="percent"></span>
+                                </span>
+                            </span>
+                        </h4>
+                        <div class="progress-outter">
+                            <div class="progress-content"></div>
+                        </div>
+                    </div>
+                    <!-- skill bar 2 -->
+                    <div class="skill-bar" data-percentage="60%">
+                        <h4 class="progress-title-holder">
+                            <span class="progress-title">Illustrator</span>
+                            <span class="progress-wrapper">
+                                <span class="progress-mark">
+                                    <span class="percent"></span>
+                                </span>
+                            </span>
+                        </h4>
+                        <div class="progress-outter">
+                            <div class="progress-content"></div>
+                        </div>
+                    </div>
+                    <!-- skill bar 3 -->
+                    <div class="skill-bar" data-percentage="85%">
+                        <h4 class="progress-title-holder">
+                            <span class="progress-title">Photoshop</span>
+                            <span class="progress-wrapper">
+                                <span class="progress-mark">
+                                    <span class="percent"></span>
+                                </span>
+                            </span>
+                        </h4>
+                        <div class="progress-outter">
+                            <div class="progress-content"></div>
+                        </div>
+                    </div>
+                    <!-- skill bar 4 -->
+                    <div class="skill-bar" data-percentage="100%">
+                        <h4 class="progress-title-holder">
+                            <span class="progress-title">Conceptualización</span>
+                            <span class="progress-wrapper">
+                                <span class="progress-mark">
+                                    <span class="percent"></span>
+                                </span>
+                            </span>
+                        </h4>
+                        <div class="progress-outter">
+                            <div class="progress-content"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- About Section End -->
+<!-- Portfolio Section Start -->
+<section class="portfolio-area portfolio-one light-bg section-padding clearfix" id="portfolio">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="section-title text-center mb-30">
+                    <h2 class="mb-20">Portfolio</h2>
+                    <div class="horizontal-line">
+                        <div class="top"></div>
+                        <div class="bottom"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <!-- <div class="all&#45;portfolio"> -->
+                <!--     <div class="portfolio&#45;menu text&#45;center"> -->
+                <!--         <ul class="clearfix mb&#45;50"> -->
+                <!--             <li data&#45;filter="*" class="active">All</li> -->
+                <!--             <li data&#45;filter=".ads">Ads</li> -->
+                <!--             <li data&#45;filter=".branding">Branding</li> -->
+                <!--             <li data&#45;filter=".photos">Photos</li> -->
+                <!--             <li data&#45;filter=".copy">Copy</li> -->
+                <!--         </ul> -->
+                <!--     </div> -->
+                <!-- </div> -->
+                <div class="portfolio-grid">
+                    <% for(var i=0;i<data.portfolio.length;i++) { %>
+                        <div class="grid-item new percent-33 <%= data.portfolio[i].label %>">
+                            <div class="single-portfolio overlay light-1 text-center">
+                                <img src="/assets/img/portfolio/<%= data.portfolio[i].image %>" alt="<%= data.portfolio[i].name %>" />
+                                <div class="title plr-40 text-center">
+                                    <div class="zoom-icon">
+                                        <a href="<%= data.portfolio[i].url %>">
+                                            <i class="zmdi zmdi-link"></i>
+                                        </a>
+                                    </div>
+                                    <div class="project-title text-left">
+                                        <h4 class="font-20 montserrat weight-regular capitalize no-margin"><%= data.portfolio[i].name %></h4>
+                                        <p class="montserratlight"><%= data.portfolio[i].label %></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    <% } %>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Portfolio Section End -->
+
+<% include common/contact %>
+
+<% include common/end %>

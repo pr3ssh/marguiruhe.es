@@ -1,0 +1,484 @@
+{
+    "home": {
+        "portfolio": [
+            {"name": "Calle 13", "label": "ads", "image": "Calle13_general.jpg", "url": "/portfolio/calle-13"},
+            {"name": "Create Not Hate", "label": "ads", "image": "Create_general.jpg", "url": "/portfolio/create-not-hate"},
+            {"name": "Smart", "label": "ads", "image": "Smart_general.jpg", "url": "/portfolio/smart"},
+            {"name": "Generosa", "label": "branding", "image": "Generosa_general.jpg", "url": "/portfolio/generosa"},
+            {"name": "Rolling Stone", "label": "ads", "image": "Rolling_general.jpg", "url": "/portfolio/rolling-stone"},
+            {"name": "Thyssen Bornemisza", "label": "ads", "image": "Thyssen_general.jpg", "url": "/portfolio/thyssen"},
+            {"name": "Expo Thai", "label": "copy", "image": "thai_general.jpg", "url": "/portfolio/expo-thai"}
+        ]
+    },
+    "portfolio": {
+        "portfolio": [
+            {"name": "Calle 13", "label": "ads", "image": "Calle13_general.jpg", "url": "/portfolio/calle-13"},
+            {"name": "Create Not Hate", "label": "ads", "image": "Create_general.jpg", "url": "/portfolio/create-not-hate"},
+            {"name": "Smart", "label": "ads", "image": "Smart_general.jpg", "url": "/portfolio/smart"},
+            {"name": "Generosa", "label": "branding", "image": "Generosa_general.jpg", "url": "/portfolio/generosa"},
+            {"name": "Rolling Stone", "label": "ads", "image": "Rolling_general.jpg", "url": "/portfolio/rolling-stone"},
+            {"name": "Thyssen Bornemisza", "label": "ads", "image": "Thyssen_general.jpg", "url": "/portfolio/thyssen"},
+            {"name": "Fotos", "label": "photos", "image": "Fotos_general.jpg", "url": "/portfolio/fotos"},
+            {"name": "Oh My Tapa", "label": "copy", "image": "ohmytapa_general.jpg", "url": "/portfolio/ohmytapa"},
+            {"name": "Swatch", "label": "ads", "image": "Swatch_general.jpg", "url": "/portfolio/swatch"},
+            {"name": "Expo Thai", "label": "copy", "image": "thai_general.jpg", "url": "/portfolio/expo-thai"},
+            {"name": "1.5 metro cuadrado", "label": "copy", "image": "1.5metro.jpg", "url": "/portfolio/1.5-metro-cuadrado"},
+            {"name": "A la carta", "label": "copy", "image": "alacarta_especifica.jpg", "url": "/portfolio/a-la-carta"},
+            {"name": "Ayer", "label": "copy", "image": "ayer.jpg", "url": "/portfolio/ayer"},
+            {"name": "Choice", "label": "copy", "image": "choice.jpg", "url": "/portfolio/choice"},
+            {"name": "ÍO", "label": "copy", "image": "io.jpg", "url": "/portfolio/io"},
+            {"name": "Jornada Boreal", "label": "copy", "image": "j.boreal.jpg", "url": "/portfolio/jornada-boreal"},
+            {"name": "Kaleidoscope", "label": "copy", "image": "kaleidoscope.jpg", "url": "/portfolio/kaleidoscope"},
+            {"name": "Mi luz", "label": "copy", "image": "miluz.jpg", "url": "/portfolio/mi-luz"},
+            {"name": "Mi no-sitio", "label": "copy", "image": "minositio.jpg", "url": "/portfolio/mi-no-sitio"},
+            {"name": "Mi piedra", "label": "copy", "image": "mipiedra.jpg", "url": "/portfolio/mi-piedra"},
+            {"name": "Surcos", "label": "copy", "image": "surcos.jpg", "url": "/portfolio/surcos"},
+            {"name": "Tu azulverde", "label": "copy", "image": "tuazulverde.jpg", "url": "/portfolio/tu-azulverde"}
+        ]
+
+    },
+    "calle-13": {
+        "imgsfoldername": "calle-13",
+        "images": [
+            "Calle13_especifica_1.jpg",
+            "Calle13_especifica_2.jpg",
+            "Calle13_especifica_3.jpg"
+        ]
+    },
+    "create-not-hate": {
+        "moreinfo": [
+            "Gráfica de las pelusas: 'Cuando les pones nombre a las pelusas de debajo de tu cama, no es suciedad, es creatividad' 'No tires tu talento'.",
+            "Gráfica del tren: 'Cuando de una humedad haces una obra de arte, no es vandalismo, es creatividad' 'No tires tu talento'."
+        ],
+        "imgsfoldername": "create-not-hate",
+        "images": [
+            "Create_especifica_2.jpg",
+            "Create_especifica_1.jpg"
+        ]
+    },
+    "rolling-stone": {
+        "imgsfoldername": "rolling-stone",
+        "images": [
+            "Rolling_especifica_1.jpg",
+            "Rolling_especifica_2.jpg"
+        ]
+    },
+    "smart": {
+        "imgsfoldername": "smart",
+        "images": [
+            "Smart_especifica.jpg"
+        ]
+    },
+    "swatch": {
+        "imgsfoldername": "swatch",
+        "images": [
+            "Swatch_especifica_1.jpg",
+            "Swatch_especifica_2.jpg",
+            "Swatch_especifica_3.jpg"
+        ]
+    },
+    "thyssen": {
+        "imgsfoldername": "thyssen",
+        "images": [
+            "Thyssen_especifica_1.jpg",
+            "Thyssen_especifica_2.jpg",
+            "Thyssen_especifica_3.jpg"
+        ]
+    },
+    "generosa": {
+        "moreinfo": [
+            "En sus textos, sus fotos, en las RRSS...esta marca se podría catalogar dentro del movimiento Body Positive.",
+            "Mi aportación a la marca es tan amplia que casi podría decirse que es un proyecto personalizado.",
+            "Desde el diseño de marca hasta cada uno de los diseños de cada camiseta, incluyendo la gestión con proveedores tanto de materia prima como de serigrafía. Además el diseño de sus tazas, de la página web con su estética y redacción de sus textos.",
+            "Las RRSS son el punto fuerte de esta marca, y me encargo por completo de ellas,incluyendo frases del día que aportan más contenido [ empatía y humor  ] que refuerza la ideología de la marca. Instagram es la gran ventana al mundo de Generosa, y su usuario es @generosa.es"
+        ],
+        "links": [
+            {"name": "Instagram", "url": "https://www.instagram.com/generosa.es/"},
+            {"name": "Tienda Online", "url": "http://www.generosa.es/"}
+        ],
+        "imgsfoldername": "generosa",
+        "images": [
+            "renacimiento_especifica.jpg",
+            "amancio_especifica.jpg",
+            "agarrate_especifica.jpg",
+            "hermosa_especifica.jpg",
+            "fellini_especifica.jpg",
+            "tazas_especifica.jpg",
+            "frase1_especifica.jpg",
+            "frase2_especifica.jpg"
+        ]
+    },
+    "fotos": {
+        "imgsfoldername": "fotos",
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "6.jpg",
+            "7.jpg",
+            "8.jpg",
+            "9.jpg",
+            "10.jpg",
+            "11.jpg",
+            "13.jpg",
+            "14.jpg",
+            "15.jpg",
+            "16.jpg",
+            "17.jpg",
+            "18.jpg",
+            "19.jpg",
+            "22.jpg",
+            "23.jpg",
+            "24.jpg",
+            "4.jpg",
+            "5.jpg",
+            "12.jpg",
+            "20.jpg",
+            "21.jpg"
+        ]
+    },
+    "ohmytapa": {
+        "moreinfo": [
+            "Decidí comenzar un blog de tapas. Mucha gente me recomendó que lo hiciera pues me pedían siempre consejo sobre dónde comer en Sevilla, planes alternativos a las típicas guías turísticas y experiencias que sólo una persona que conoce la capital hispalense le podía proporcionar. De todas esas guías que hice [ y sigo haciendo  ] decidí publicar sólo la parte sabrosa, resultando ser un joven blog llamado Oh My Tapa."
+        ],
+        "links": [
+            {"name": "Web del blog", "url": "https://ohmytapa.wordpress.com/"}
+        ],
+        "imgsfoldername": "ohmytapa",
+        "images": [
+            "AmorAlaMexicana_especifica.jpg",
+            "Antojo_especifica.jpg",
+            "Pepona_especifica.jpg",
+            "PerroViejo_especifica.jpg"
+        ]
+    },
+    "expo-thai": {
+        "moreinfo": [
+            "<<Preparar las mochilas sin nada prescindible.",
+            "Garabatear un itinerario con infinidad de puntos y paradas nuevas, convencidos a perderse, deseando encontrase.",
+            "Nada seguro, solo que somos 6 y que este viaje cambiará algo en nosotros, despertará la bestia con hambre de conocer mundo...y nos encanta la idea.",
+            "Impregnarnos de otra cultura, vivir a sus gentes, respirar su paisaje, saborear sus costumbres, navegar en sus religiones.",
+            "A dónde vamos? A la enigmática y plural Thailandia.",
+            "Silvia Orduna y Alberto Barroso formaron parte de esta idea y la llevaron a cabo junto con 4 amigos.",
+            "Estos dos magníficos captadores de momentos, retrataron todos los instantes únicos, lugares singulares y la peculiaridad de sus rostros.",
+            "Gracias a ello, hoy podemos ver a través de sus imágenes, una Thailandia más cercana, lejos de los resorts y de la artificialidad de los grandes hoteles.",
+            "Un país sencillo y espléndido, captado desde sus calles, desde el trato amable de sus gentes, desde el cansancio y el caminar, desde el agotamiento físico y el vigor de los sentidos.",
+            "Desde Bangkok, la ciudad que nunca duerme, hasta Koh Lanta, pasando por Chiang Mai y la paradisiaca Phi Phi, 6 amigos emprendieron un viaje que les marcaría para siempre, y nos dejaría en bandeja una rica selección del más puro espíritu aventurero.",
+            "Disfruten con 'Oh my buddha' de la Thailandia más cercana, de la Thailandia más vivida.>>"
+        ],
+        "imgsfoldername": "expo-thai",
+        "images": [
+            "thai1_especifica.jpg",
+            "thai2_especifica.jpg"
+        ]
+    },
+    "choice": {
+        "moreinfo": [
+            "El color que te caracteriza.",
+            "La ropa que te envuelve.",
+            "EL espejo en que te miras.",
+            "El sonido que escupes.",
+            "La música que te guía.",
+            "El libro que te enseña.",
+            "La profesión que te etiqueta.",
+            "La palabra que te marca.",
+            "La ideología que te acorrala.",
+            "El hombro en el que lloras.",
+            "El rostro que te enloquece.",
+            "La droga que te motiva.",
+            "La calma que te evade.",
+            "",
+            "ELEGIR.",
+            "",
+            "Podemos.",
+            "Lo hacemos.",
+            "Sigamos haciéndolo. Es nuestra concidición de humano. Nos hace únicos."
+        ]
+    },
+    "kaleidoscope": {
+        "moreinfo": [
+            "Rosa y verde.",
+            "Para luego tornarse en el más intenso rojo.",
+            "Enormes círculos rojos donde me sentía protegida.",
+            "Rojo, rojo, rojo intensísimo.",
+            "",
+            "Luego todo pasó a un rojo apagado.",
+            "",
+            "Las figuras que antes eran redondeadas",
+            "luego se antojaron punzantes.",
+            "Picas y rombos de un rojo oscuro",
+            "acechaban contra mi alma y mi persona.",
+            "",
+            "Me hacían daño.",
+            "Me abrían heridas.",
+            "Poco a poco fueron desapareciendo.",
+            "",
+            "Aún queda alguno.",
+            "Pocos.",
+            "Pero extremadamente dañinos.",
+            "",
+            "Aparecen otras figuras.",
+            "",
+            "Pequeños atisbos de esferas de un hermoso e intenso amarillo.",
+            "Curiosos triángulos de puntas redondeadas",
+            "de un azul cian profundo.",
+            "Siluetas de lo que parecen ser globos de color naranja,",
+            "tan alegres que tan solo mirarlos,",
+            "entran ganas de vivir eternamente.",
+            "",
+            "Por fin veo el final",
+            "de los rombos y las picas de color rojo oscuro.",
+            "",
+            "Ojalá jamás vuelvan.",
+            "Ojalá predominen los colores alegres",
+            "y las figuras redondas.",
+            "Ojalá.",
+            "",
+            "Vuelvo, poco a poco",
+            "a dirigir las vueltas",
+            "que da mi CALEIDOSCOPIO."
+        ]
+    },
+    "a-la-carta": {
+        "moreinfo": [
+            "Templanza revuelta.",
+            "Ganas salpimentadas.",
+            "Esperanza glaseada.",
+            "Tristeza estrellada.",
+            "Recuerdos escalfados.",
+            "Derrota flambeada.",
+            "Coraje a la parrilla. ",
+            "",
+            "Mente fresca. Destino dulce.",
+            "",
+            "Corazón al dente."
+        ]
+    },
+    "surcos": {
+        "moreinfo": [
+            "La bajamar me deja ver un efecto grandioso en las orillas.",
+            "El paso imperioso del agua a través de las arenas, dejando tras de sí los surcos serpenteantes, ha roto el 'clímax' de la tierra llana y homogénea.",
+            "Abre suavemente su superficie dibujando en ella. Poco a poco.",
+            "La sufrida arena no comprende tal invasión de su calma...pero nunca antes se vió tan bella."
+        ]
+    },
+    "tu-azulverde": {
+        "moreinfo": [
+            "Me pierdo",
+            "y caigo en picado,",
+            "desnuda y sin nada,",
+            "en el océano helado",
+            "del azul de tu mirada,",
+            "que me abriga,",
+            "que me empaña,",
+            "que me rompe,",
+            "que me araña.",
+            "",
+            "Me escondo,",
+            "y del mal me despojo,",
+            "en la inmensidad verde",
+            "del bosque de tus ojos.",
+            "Donde sueño despierta,",
+            "donde la salvia me cuenta",
+            "que tú eres mi sino,",
+            "mi ruta, mi camino."
+        ]
+    },
+    "io": {
+        "moreinfo": [
+            "En el monótono esplendor",
+            "del Haber infinito,",
+            "un asterísco de vida",
+            "rompe la calma del mismo.",
+            "",
+            "En la insípida rutina",
+            "de un corazón inerte y frío,",
+            "una chispa de calor",
+            "enrojece los latidos.",
+            "",
+            "El amor sin gravedad,",
+            "los volcanes de besos.",
+            "Eres TÚ a mi vida,",
+            "lo que ÍO al Universo."
+        ]
+    },
+    "ayer": {
+        "moreinfo": [
+            "Ayer,",
+            "cuando la noche moría,",
+            "juntaba mi pecho a tu espalda,",
+            "unía tu carne a la mía.",
+            "",
+            "La luz nos salpicaba.",
+            "Así amanecía.",
+            "",
+            "Ayer,",
+            "cuando la gris blancura",
+            "a azulnegro se fundía,",
+            "en el óleo de tu cuerpo",
+            "mis sentidos se perdían.",
+            "",
+            "La oscuridad nos envolvía.",
+            "Asi anochecía."
+        ]
+    },
+    "1.5-metro-cuadrado": {
+        "moreinfo": [
+            "En metro y medio cuadrado",
+            "se expande mi órbita diaria,",
+            "donde recibo,sumisa,",
+            "un aluvión de disparos.",
+            "",
+            "En metro y medio cuadrado,",
+            "pongo a prueba facultades",
+            "de gran Alfa estratega",
+            "en una pelea de gallos.",
+            "",
+            "En metro y medio cuadrado,",
+            "me aferro a tu recuerdo",
+            "como el único salvavidas",
+            "en un infierno mojado.",
+            "",
+            "En metro y medio cuadrado,",
+            "respiro cuando me piensas,",
+            "sacándome de este bucle",
+            "de humanos robotizados.",
+            "",
+            "Asumo,no sin desgarro,",
+            "que intento dirigir mis pasos",
+            "para alejarme lo más posible",
+            "del Metro y Medio Cuadrado."
+        ]
+    },
+    "jornada-boreal": {
+        "moreinfo": [
+            "Entrego este impreso,",
+            "que laburando redacto,",
+            "al que manda en mi mundo,",
+            "al que me dicta los pasos.",
+            "",
+            "Jefe,yo le pido,",
+            "sin que me cueste el despido,",
+            "unas horas de más",
+            "en mi Jornada Boreal.",
+            "",
+            "Yo respeto con creces,",
+            "mis ocho horas ganando",
+            "el sustento necesario",
+            "para seguir respirando.",
+            "",
+            "Con mi primer aliento asumí",
+            "que el día son veinticuatro horas.",
+            "No lo elegimos ni tú ni yo,",
+            "sino la Estrella Mayor.",
+            "",
+            "Ahora,",
+            "Ni jornada a secas,",
+            "ni jornada laboral.",
+            "Yo me he venido a quejar",
+            "de mi Jornada Boreal.",
+            "",
+            "Mi Jornada Boreal,",
+            "ésa que tú me cuadras,",
+            "se me está quedando corta",
+            "y por eso mi demanda.",
+            "",
+            "Las horas,de espuma rosa,",
+            "se disipan en el aire",
+            "cuando Él me trae estrellas",
+            "en forma de lento-suave.",
+            "",
+            "Los minutos,de lentes verdes,",
+            "se me vuelven transparentes,",
+            "cuando a la luna me eleva",
+            "por el túnel de su lengua.",
+            "",
+            "Los siglos verdes vuelan",
+            "en la tundra de sus ojos.",
+            "Es tan esencial...",
+            "te juro que no es antojo.",
+            "Es una gran necesidad.",
+            "Por favor,corazón mío,",
+            "no lo dejes escapar,",
+            "y estira todas las horas",
+            "de mi Jornada Boreal."
+        ]
+    },
+    "mi-no-sitio": {
+        "moreinfo": [
+            "Cotorras muy feas",
+            "con falsos martirios.",
+            "Valores de mierda,",
+            "¡ ÉSTE NO ES MI SITIO !",
+            "",
+            "Élite mediocre,",
+            "'Fanalfabetismo'.",
+            "yonkis de la tele,",
+            "¡ ÉSTE NO ES MI SITIO !",
+            "",
+            "Trepas retorcidas,",
+            "bazofias sin destino,",
+            "pelo oxigenado, ",
+            "¡ ÉSTE NO ES MI SITIO !",
+            "",
+            "Provocáis asco, pena,",
+            "ira, delirio.",
+            "Sois escoria barata..",
+            "...y ¡ ÉSTE NO ES MI SITIO !"
+        ]
+    },
+    "mi-piedra": {
+        "moreinfo": [
+            "Mi piedra preciosa es radiante,",
+            "está incrustada a mi existencia",
+            "Es más fuerte que el diamante,",
+            "medidora de experiencia.",
+            "",
+            "Se le antoja al más rastrero,",
+            "la respeta el más sincero.",
+            "Te la roba el pirata,",
+            "la merece el marinero.",
+            "",
+            "Ésa es,",
+            "la que se hiende",
+            "si nadie la mima,",
+            "ni la comprende.",
+            "",
+            "Ésa es,",
+            "la que se rompe en mil pedazos",
+            "cuando por vaivenes de la vida",
+            "recibes mil mazazos...",
+            "",
+            "Mi piedra rota,",
+            "hecha añicos,",
+            "de repente brota,",
+            "en forma de gota",
+            "que sale de mis ojos",
+            "porque",
+            "una sublime belleza",
+            "la saca a su antojo",
+            "por la melodía",
+            "que la transforma",
+            "en lágrimas de alegría."
+        ]
+    },
+    "mi-luz": {
+        "moreinfo": [
+            "El polvoriento trajín la adormece.",
+            "Las obligaciones le roban su brillo.",
+            "Viaja a otros tiempos para recordarse espléndida.",
+            "Sueña ser arcoiris.",
+            "Nada en aromas de libertad.",
+            "",
+            "MI LUZ.",
+            "",
+            "En la soledad te encuentro,",
+            "en las tinieblas que me abrazan,",
+            "en el eco que me acompaña,",
+            "en el silencio de mi alma.",
+            "",
+            "Disfruto tanto de ti...",
+            "Disfruto tanto de mí."
+        ]
+    }
+}

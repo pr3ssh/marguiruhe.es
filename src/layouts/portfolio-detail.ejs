@@ -1,0 +1,63 @@
+<% include common/start %>
+
+<% include common/headerless %>
+
+<!-- Portfolio Details Section Start -->
+<div class="portfolio-details-area light-bg section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-8">
+                <div class="portfolio-description single-post">
+                    <h3 class="font-26 montserrat capitalize"><%= meta.title %></h3>
+                    <h5 class="font-20 montserrat weight-medium capitalize"><%= meta.keywords %></h5>
+                    <p><%= meta.description %></p>
+                    <% if (data.moreinfo) { %>
+                        <% for (var i=0;i<data.moreinfo.length;i++) { %>
+                            <p <% if (data.moreinfo[i] == '') { %>class="break"<% } %>><%= data.moreinfo[i] %></p>
+                        <% } %>
+                    <% } %>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+                <div class="portfolio-sidebar pt-45">
+                    <% if (data.links) { %>
+                    <ul>
+                        <% for (var i=0;i<data.links.length;i++) { %>
+                            <li><a class="link" href="<%= data.links[i].url %>" target="_blank"><%= data.links[i].name %></a></li>
+                        <% } %>
+                    </ul>
+                    
+                    <!-- <ul> -->
+                    <!--     <li><span>Client :</span> <p>Regal Theme</p></li> -->
+                    <!--     <li><span>Created By :</span> <p>Héctor Nieto</p></li> -->
+                    <!--     <li><span>Completed :</span> <p>20 Jun 2017</p></li> -->
+                    <!--     <li><span>Skill :</span> <p>Photoshop, Indesign</p></li> -->
+                    <!--     <li><span>Services :</span> <p>Sells, Marketing, PSD Envato, All, Charlila</p></li> -->
+                    <!-- </ul> -->
+                    <% } %>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="project-gallery pt-80">
+                    <div class="row">
+                        <% if (data.images) { %>
+                            <% for (var i=0;i<data.images.length;i++) { %>
+                                <div class="col-xs-12 col-sm-6 mb-30">
+                                    <a href="/assets/img/portfolio/<%= data.imgsfoldername %>/<%= data.images[i] %>" class="fancybox">
+                                        <img src="/assets/img/portfolio/<%= data.imgsfoldername %>/<%= data.images[i] %>" alt="<%= meta.title %>" />
+                                    </a>
+                                </div>
+                            <% } %>
+                        <% } %>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<% include common/contact %>
+
+<% include common/end %>

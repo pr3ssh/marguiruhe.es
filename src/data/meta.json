@@ -1,0 +1,122 @@
+{
+    "home": {
+        "title": "Mi sitio web personal",
+        "description": "Descripción de Margui Ruhe",
+        "keywords": ""
+    },
+    "portfolio": {
+        "title": "Mi portfolio",
+        "description": "EL portfolio de Margui Ruhe",
+        "keywords": "portfolio, ads, branding, photos, copy"
+    },
+    "calle-13": {
+        "title": "Calle 13",
+        "description": "Calle 13, canal especializado en películas de terror de todos los tiempos. Si hay algo que esté minado de tópicos, eso es una película de terror. Por ello me centré en las sensaciones que éstas suelen generar. Lo llevé al extremo de las fobias y escogí tres escenas archiconocidas de películas de este género. La mejor forma de llegar al target es mediante un contundente insight, como estas “fobias” ficticias con cierto toque de humor.",
+        "keywords": "ads"
+    },
+    "create-not-hate": {
+        "title": "Create Not Hate",
+        "description": "En Zink Project me llegó un briefing de un concurso en UK acerca de la inclusión del arte de ciertos colectivos urbanos tachados de vándalos. En definitiva, una campaña para que todo el arte urbano, como los graffitis o marketing de guerrilla, fuera valorado como lo que es, no discriminarlo.",
+        "keywords": "ads"
+    },
+    "rolling-stone": {
+        "title": "Rolling Stone",
+        "description": "¿Cómo celebrarías los 10 años [en España] de la revista icono de las tendencias musicales ? Los guiños siempre funcionan y por ello hice homenaje a las dos bandas más míticas del siglo XX con niños de 10 años.",
+        "keywords": "ads"
+    },
+    "smart": {
+        "title": "Smart",
+        "description": "Participé en un concurso que la marca de coches lanzó. En el briefing se pedía destacar la función ecológica de estos motores. Investigué, vi cuánto consumían en números reales y lo comparé con el nocivo gas de una vaca.",
+        "keywords": "ads"
+    },
+    "swatch": {
+        "title": "Swatch",
+        "description": "¿Cuál es la razón principal de saber la hora? ¿No llegar tarde a ningún sitio?¿Poder fijar un momento donde poder quedar con alguien? ¿ Algo más importante que todas estas cosas? Sí, saber en qué momento vivimos y cuándo nos suceden las cosas más relevantes de nuestra vida.",
+        "keywords": "ads"
+    },
+    "thyssen": {
+        "title": "Thyssen Bornemisza",
+        "description": "El Museo Thyssen-Bornemisza quería dar a conocer las colecciones que albergaba para la temporada alta de turismo. Jugué con el concepto teaser mostrando sólo una parte o el [supuesto] principio de una obra.",
+        "keywords": "ads"
+    },
+    "generosa": {
+        "title": "Generosa",
+        "description": "Generosa es una marca de camiseta plus size que comenzamos una socia y yo, y que actualmente llevo sola. Esta marca aboga por la diversidad de tallajes, sin considerar en el gran abanico de tallas cual es lo común o normal. Nosotras empezamos por arriba y no por abajo, y decidimos hacer camisetas a partir de la L hasta la 3XL.",
+        "keywords": "branding"
+    },
+    "fotos": {
+        "title": "Fotos",
+        "description": "Con  el único objetivo de mi cámara, sin ninguna pretensión, disparo rauda y veloz para robar instantes que me dicen algo. Me llaman, me piden ser eternizados y yo acudo a ellos [ o ellos a mí ]...todo eso en una milésima de segundo. Lo suficiente para hacer que un fugaz momento  dure para siempre.",
+        "keywords": "photos"
+    },
+    "ohmytapa": {
+        "title": "Oh My Tapa",
+        "description": "Como hedonista que soy, uno de los placeres de la vida que más me satisface es la buena cocina, siempre bien acompañada y maridada con todos los matices posibles para que una jornada gastronómica derive en una experiencia única.",
+        "keywords": "copy"
+    },
+    "expo-thai": {
+        "title": "Expo Thai",
+        "description": "Tener amistades aventureras y creativas que confíen en ti para redactar una sinopsis de una de sus más entrañables vivencias es todo un honor. De un viaje a Thailandia que nunca olvidarán a una exposición llena de color.",
+        "keywords": "copy"
+    },
+    "choice": {
+        "title": "Choice",
+        "description": "",
+        "keywords": "copy"
+    },
+    "kaleidoscope": {
+        "title": "Kaleidoscope",
+        "description": "",
+        "keywords": "copy"
+    },
+    "a-la-carta": {
+        "title": "A la carta",
+        "description": "",
+        "keywords": "copy"
+    },
+    "surcos": {
+        "title": "Surcos",
+        "description": "",
+        "keywords": "copy"
+    },
+    "tu-azulverde": {
+        "title": "Tu azulverde",
+        "description": "",
+        "keywords": "copy"
+    },
+    "io": {
+        "title": "[mi] ÍO",
+        "description": "",
+        "keywords": "copy"
+    },
+    "ayer": {
+        "title": "Ayer",
+        "description": "",
+        "keywords": "copy"
+    },
+    "1.5-metro-cuadrado": {
+        "title": "1.5 metro cuadrado",
+        "description": "",
+        "keywords": "copy"
+    },
+    "jornada-boreal": {
+        "title": "Jornada boreal",
+        "description": "",
+        "keywords": "copy"
+    },
+    "mi-no-sitio": {
+        "title": "Mi no-sitio",
+        "description": "",
+        "keywords": "copy"
+    },
+    "mi-piedra": {
+        "title": "Mi piedra",
+        "description": "",
+        "keywords": "copy"
+    },
+    "mi-luz": {
+        "title": "Mi luz",
+        "description": "",
+        "keywords": "copy"
+    }
+}

@@ -1,0 +1,61 @@
+<% include common/start %>
+
+<% include common/headerless %>
+
+<!-- Portfolio Section Start -->
+<section class="portfolio-area portfolio-one light-bg section-padding clearfix" id="portfolio">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="section-title text-center mb-30">
+                    <h2 class="mb-20">My Portfolio</h2>
+                    <div class="horizontal-line">
+                        <div class="top"></div>
+                        <div class="bottom"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="all-portfolio">
+                    <div class="portfolio-menu text-center">
+                        <ul class="clearfix mb-50">
+                            <li data-filter="*" class="active">All</li>
+                            <li data-filter=".ads">Ads</li>
+                            <li data-filter=".branding">Branding</li>
+                            <li data-filter=".photos">Photos</li>
+                            <li data-filter=".copy">Copy</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="portfolio-grid">
+                    <% for(var i=0;i<data.portfolio.length;i++) { %>
+                        <div class="grid-item new percent-33 <%= data.portfolio[i].label %>">
+                            <div class="single-portfolio overlay light-1 text-center">
+                                <img src="/assets/img/portfolio/<%= data.portfolio[i].image %>" alt="<%= data.portfolio[i].name %>" />
+                                <div class="title plr-40 text-center">
+                                    <div class="zoom-icon">
+                                        <a href="<%= data.portfolio[i].url %>">
+                                            <i class="zmdi zmdi-link"></i>
+                                        </a>
+                                    </div>
+                                    <div class="project-title text-left">
+                                        <h4 class="font-20 montserrat weight-regular capitalize no-margin"><%= data.portfolio[i].name %></h4>
+                                        <p class="montserratlight"><%= data.portfolio[i].label %></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    <% } %>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Portfolio Section End -->
+
+<% include common/contact %>
+
+<% include common/end %>
+

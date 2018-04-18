@@ -1,0 +1,194 @@
+{
+    "home": {
+        "path_to_layout": "src/layouts/home.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "home"},
+            {"src/data/data.json": "home"}
+        ]
+    },
+    "portfolio": {
+        "path_to_layout": "src/layouts/portfolio.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "portfolio"},
+            {"src/data/data.json": "portfolio"}
+        ]
+    },
+    "portfolio/calle-13": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "calle-13"},
+            {"src/data/data.json": "calle-13"}
+        ]
+    },
+    "portfolio/create-not-hate": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "create-not-hate"},
+            {"src/data/data.json": "create-not-hate"}
+        ]
+    },
+    "portfolio/rolling-stone": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "rolling-stone"},
+            {"src/data/data.json": "rolling-stone"}
+        ]
+    },
+    "portfolio/smart": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "smart"},
+            {"src/data/data.json": "smart"}
+        ]
+    },
+    "portfolio/swatch": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "swatch"},
+            {"src/data/data.json": "swatch"}
+        ]
+    },
+    "portfolio/thyssen": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "thyssen"},
+            {"src/data/data.json": "thyssen"}
+        ]
+    },
+    "portfolio/generosa": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "generosa"},
+            {"src/data/data.json": "generosa"}
+        ]
+    },
+    "portfolio/fotos": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "fotos"},
+            {"src/data/data.json": "fotos"}
+        ]
+    },
+    "portfolio/ohmytapa": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "ohmytapa"},
+            {"src/data/data.json": "ohmytapa"}
+        ]
+    },
+    "portfolio/expo-thai": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "expo-thai"},
+            {"src/data/data.json": "expo-thai"}
+        ]
+    },
+    "portfolio/choice": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "choice"},
+            {"src/data/data.json": "choice"}
+        ]
+    },
+    "portfolio/kaleidoscope": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "kaleidoscope"},
+            {"src/data/data.json": "kaleidoscope"}
+        ]
+    },
+    "portfolio/a-la-carta": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "a-la-carta"},
+            {"src/data/data.json": "a-la-carta"}
+        ]
+    },
+    "portfolio/surcos": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "surcos"},
+            {"src/data/data.json": "surcos"}
+        ]
+    },
+    "portfolio/tu-azulverde": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "tu-azulverde"},
+            {"src/data/data.json": "tu-azulverde"}
+        ]
+    },
+    "portfolio/io": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "io"},
+            {"src/data/data.json": "io"}
+        ]
+    },
+    "portfolio/ayer": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "ayer"},
+            {"src/data/data.json": "ayer"}
+        ]
+    },
+    "portfolio/1.5-metro-cuadrado": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "1.5-metro-cuadrado"},
+            {"src/data/data.json": "1.5-metro-cuadrado"}
+        ]
+    },
+    "portfolio/jornada-boreal": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "jornada-boreal"},
+            {"src/data/data.json": "jornada-boreal"}
+        ]
+    },
+    "portfolio/mi-no-sitio": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "mi-no-sitio"},
+            {"src/data/data.json": "mi-no-sitio"}
+        ]
+    },
+    "portfolio/mi-piedra": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "mi-piedra"},
+            {"src/data/data.json": "mi-piedra"}
+        ]
+    },
+    "portfolio/mi-luz": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "mi-luz"},
+            {"src/data/data.json": "mi-luz"}
+        ]
+    }
+}
