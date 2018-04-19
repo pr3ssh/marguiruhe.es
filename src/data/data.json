@@ -1,13 +1,13 @@
 {
     "home": {
         "portfolio": [
-            {"name": "Calle 13", "label": "ads", "image": "Calle13_general.jpg", "url": "/portfolio/calle-13"},
-            {"name": "Create Not Hate", "label": "ads", "image": "Create_general.jpg", "url": "/portfolio/create-not-hate"},
-            {"name": "Smart", "label": "ads", "image": "Smart_general.jpg", "url": "/portfolio/smart"},
             {"name": "Generosa", "label": "branding", "image": "Generosa_general.jpg", "url": "/portfolio/generosa"},
-            {"name": "Rolling Stone", "label": "ads", "image": "Rolling_general.jpg", "url": "/portfolio/rolling-stone"},
-            {"name": "Thyssen Bornemisza", "label": "ads", "image": "Thyssen_general.jpg", "url": "/portfolio/thyssen"},
-            {"name": "Expo Thai", "label": "copy", "image": "thai_general.jpg", "url": "/portfolio/expo-thai"}
+            {"name": "Create Not Hate", "label": "ads", "image": "Create_general.jpg", "url": "/portfolio/create-not-hate"},
+            {"name": "Fotos", "label": "photos", "image": "Fotos_general.jpg", "url": "/portfolio/fotos"},
+            {"name": "Calle 13", "label": "ads", "image": "Calle13_general.jpg", "url": "/portfolio/calle-13"},
+            {"name": "Swatch", "label": "ads", "image": "Swatch_general.jpg", "url": "/portfolio/swatch"},
+            {"name": "Oh My Tapa", "label": "copy", "image": "ohmytapa_general.jpg", "url": "/portfolio/ohmytapa"},
+            {"name": "Smart", "label": "ads", "image": "Smart_general.jpg", "url": "/portfolio/smart"}
         ]
     },
     "portfolio": {
