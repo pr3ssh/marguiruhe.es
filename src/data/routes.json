@@ -71,6 +71,22 @@
             {"src/data/data.json": "generosa"}
         ]
     },
+    "portfolio/uniclinic": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "uniclinic"},
+            {"src/data/data.json": "uniclinic"}
+        ]
+    },
+    "portfolio/templo-camisetas": {
+        "path_to_layout": "src/layouts/portfolio-detail.ejs",
+        "path_to_data": [
+            "src/data/global.json",
+            {"src/data/meta.json": "templo-camisetas"},
+            {"src/data/data.json": "templo-camisetas"}
+        ]
+    },
     "portfolio/fotos": {
         "path_to_layout": "src/layouts/portfolio-detail.ejs",
         "path_to_data": [

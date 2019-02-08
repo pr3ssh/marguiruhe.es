@@ -2,24 +2,26 @@
     "home": {
         "portfolio": [
             {"name": "Generosa", "label": "branding", "image": "Generosa_general.jpg", "url": "/portfolio/generosa"},
+            {"name": "Templo camisetas", "label": "branding", "image": "Templo_general.jpg", "url": "/portfolio/templo-camisetas"},
+            {"name": "Uniclinic", "label": "ads", "image": "Uniclinic_general.jpg", "url": "/portfolio/uniclinic"},
             {"name": "Create Not Hate", "label": "ads", "image": "Create_general.jpg", "url": "/portfolio/create-not-hate"},
-            {"name": "Fotos", "label": "photos", "image": "Fotos_general.jpg", "url": "/portfolio/fotos"},
-            {"name": "Calle 13", "label": "ads", "image": "Calle13_general.jpg", "url": "/portfolio/calle-13"},
-            {"name": "Swatch", "label": "ads", "image": "Swatch_general.jpg", "url": "/portfolio/swatch"},
             {"name": "Oh My Tapa", "label": "copy", "image": "ohmytapa_general.jpg", "url": "/portfolio/ohmytapa"},
-            {"name": "Smart", "label": "ads", "image": "Smart_general.jpg", "url": "/portfolio/smart"}
+            {"name": "Swatch", "label": "ads", "image": "Swatch_general.jpg", "url": "/portfolio/swatch"},
+            {"name": "Fotos", "label": "photos", "image": "Fotos_general.jpg", "url": "/portfolio/fotos"}
         ]
     },
     "portfolio": {
         "portfolio": [
+            {"name": "Generosa", "label": "branding", "image": "Generosa_general.jpg", "url": "/portfolio/generosa"},
+            {"name": "Templo camisetas", "label": "branding", "image": "Templo_general.jpg", "url": "/portfolio/templo-camisetas"},
+            {"name": "Uniclinic", "label": "ads", "image": "Uniclinic_general.jpg", "url": "/portfolio/uniclinic"},
+            {"name": "Oh My Tapa", "label": "copy", "image": "ohmytapa_general.jpg", "url": "/portfolio/ohmytapa"},
+            {"name": "Fotos", "label": "photos", "image": "Fotos_general.jpg", "url": "/portfolio/fotos"},
             {"name": "Calle 13", "label": "ads", "image": "Calle13_general.jpg", "url": "/portfolio/calle-13"},
             {"name": "Create Not Hate", "label": "ads", "image": "Create_general.jpg", "url": "/portfolio/create-not-hate"},
             {"name": "Smart", "label": "ads", "image": "Smart_general.jpg", "url": "/portfolio/smart"},
-            {"name": "Generosa", "label": "branding", "image": "Generosa_general.jpg", "url": "/portfolio/generosa"},
             {"name": "Rolling Stone", "label": "ads", "image": "Rolling_general.jpg", "url": "/portfolio/rolling-stone"},
             {"name": "Thyssen Bornemisza", "label": "ads", "image": "Thyssen_general.jpg", "url": "/portfolio/thyssen"},
-            {"name": "Fotos", "label": "photos", "image": "Fotos_general.jpg", "url": "/portfolio/fotos"},
-            {"name": "Oh My Tapa", "label": "copy", "image": "ohmytapa_general.jpg", "url": "/portfolio/ohmytapa"},
             {"name": "Swatch", "label": "ads", "image": "Swatch_general.jpg", "url": "/portfolio/swatch"},
             {"name": "Expo Thai", "label": "copy", "image": "thai_general.jpg", "url": "/portfolio/expo-thai"},
             {"name": "1.5 metro cuadrado", "label": "copy", "image": "1.5metro.jpg", "url": "/portfolio/1.5-metro-cuadrado"},
@@ -93,8 +95,7 @@
             "Las RRSS son el punto fuerte de esta marca, y me encargo por completo de ellas,incluyendo frases del día que aportan más contenido [ empatía y humor  ] que refuerza la ideología de la marca. Instagram es la gran ventana al mundo de Generosa, y su usuario es @generosa.es"
         ],
         "links": [
-            {"name": "Instagram", "url": "https://www.instagram.com/generosa.es/"},
-            {"name": "Tienda Online", "url": "http://www.generosa.es/"}
+            {"name": "Instagram", "url": "https://www.instagram.com/generosa.es/"}
         ],
         "imgsfoldername": "generosa",
         "images": [
@@ -106,6 +107,32 @@
             "tazas_especifica.jpg",
             "frase1_especifica.jpg",
             "frase2_especifica.jpg"
+        ]
+    },
+    "uniclinic": {
+        "moreinfo": [
+            "Uniclinic es una clínica de belleza en plena expansión en cuanto a servicios de belleza a cubrir. El diseño y composición de cada pieza promocional sigue un mismo hilo estético resaltando la oferta que interesa llegar al cliente potencial."
+        ],
+        "imgsfoldername": "uniclinic",
+        "images": [
+            "Uniclinic_especifica1.jpg",
+            "Uniclinic_especifica2.jpg",
+            "Uniclinic_especifica3.jpg",
+            "Uniclinic_especifica4.jpg",
+            "Uniclinic_especifica5.jpg",
+            "Uniclinic_especifica6.jpg"
+        ]
+    },
+    "templo-camisetas": {
+        "moreinfo": [
+            "Templo, uno de los gastrobar con más personalidad de Huelva, me pidió el diseño de las nuevas camisetas para el staff. La estética del local está claramente impregnada de referencias a Caminito, el mítico barrio porteño lleno de colores y típica estampa de unos de los lugares de obligado paso en Buenos Aires. Quise transmitir ese espíritu burlesque y auténtico respetando su logo, la hormiga."
+        ],
+        "imgsfoldername": "templo-camisetas",
+        "images": [
+            "templo_especifica1.jpg",
+            "templo_especifica2.jpg",
+            "templo_especifica3.jpg",
+            "templo_especifica4.jpg"
         ]
     },
     "fotos": {
